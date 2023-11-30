@@ -1,4 +1,4 @@
-#Integrantes del Grupo 2
--Raquel 
--Ismael
--Amador
+# Integrantes del Grupo 2
+- Raquel
+- Ismael
+- Amador
