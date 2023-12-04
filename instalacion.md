@@ -41,10 +41,12 @@ Creamos una carpeta que contendrá todos los archivos de la aplicación
 mkdir practica 
 cd practica/
 ```
-Una vez en la carpeta, clonamos el repositorio de GitHub. Pero antes es necesario deshabilitar la verificación SSL para las conexiones HTTPS en Git a nivel global. Esto hará que Git deje de verificar la autenticidad del certificado SSL al conectarse a servidores remotos a través de HTTPS. De lo contrario no podremos clonar nuetro repositorio en el Hosting.
-```
-git config --global sslVerify false
-```
+> [!IMPORTANT]
+> Una vez en la carpeta, clonamos el repositorio de GitHub. Pero antes es necesario deshabilitar la verificación SSL para las conexiones HTTPS en Git a nivel global. Esto hará que Git deje de verificar la autenticidad del certificado SSL al conectarse a servidores remotos a través de HTTPS. De lo contrario no podremos clonar nuetro repositorio en el Hosting.
+>```
+> git config --global sslVerify false
+> ```
+
 Finalmente clonamos el repositorio
 
 ```
