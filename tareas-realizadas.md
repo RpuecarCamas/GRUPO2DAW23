@@ -9,7 +9,16 @@
 - Creación del archivo "Valoraciones.txt".
 
 # Integrante 2 (Amador):
-- No especificado.
+Git / GitHub
+- Clonación del repositorio del proyecto
+- Creación de un rama, subida de archivos correspondientes y merge a master
+  - app/Model.php
+-Proporcionar los datos de conexión a la Base de Datos al integrante 3 para que modificase el archivo app/Config.php
+
+CDmon
+- Creación de la Base de Datos "alimentos22023"
+- Creación de la Tabla Alimentos
+- Despliegue de la aplicación directamente en CDmon a través de SSH
 
 # Integrante 3 (Ismael):
 - Creación de un repositorio local en su escritorio.
