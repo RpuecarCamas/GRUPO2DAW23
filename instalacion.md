@@ -55,6 +55,8 @@ git clone https://github.com/RpuecarCamas/GRUPO2DAW23.git .
 
 Tras esto ya tendremos la aplicación disponible a través de la URL:  
 http://amadorsabido.com.mialias.net/practica/web/
+- Usuario: amador136
+- Contraseña: S38TLhH0
 
 ### 2.2 Subida de archivos mediante FTP
 
